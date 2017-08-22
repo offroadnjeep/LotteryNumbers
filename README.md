@@ -1,2 +1,2 @@
 # LotteryNumbers
-NC Lottery Numbers
+NC Lottery Numbers for all lotteries
